@@ -61,5 +61,7 @@ print(gdapi.songV(0))
 ```
 ## More
 GDAPI: https://gdbrowser.com/api
+
 License: GNU General Public License V3
+
 I'll add more features later ;)
