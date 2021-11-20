@@ -5,9 +5,6 @@ GeometryDashAPI is a API wrapper for the game called "Geometry Dash".
 ## Requirements
  - Python 2.25.1
 
-## Installing
-`pip install geometrydashapi`
-
 ## Examples
 
 ### User info
